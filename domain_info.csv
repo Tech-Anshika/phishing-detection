@@ -1,0 +1,6 @@
+domain,registrar,creation_date,expiration_date,country,ip_address,mx_records,ns_records,error
+google.com,"MarkMonitor, Inc.",1997-09-15 04:00:00,2028-09-14 04:00:00,US,142.250.193.142,smtp.google.com.,ns4.google.com.;ns3.google.com.;ns2.google.com.;ns1.google.com.,
+sbi.co.in,Sify Digital Services Limited,2002-10-30 19:05:33,2028-10-30 19:05:33.503000,IN,192.12.109.196,sbi-co-in.mail.protection.outlook.com.,sdns.satyam.net.in.;pdns.satyam.net.in.,
+g00gle.com,"MarkMonitor, Inc.",2001-06-01 16:49:57,2026-06-01 16:49:57,US,,,ns3.googledomains.com.;ns2.googledomains.com.;ns4.googledomains.com.;ns1.googledomains.com.,
+paypal.com,"MarkMonitor, Inc.",1999-07-15 05:32:11,2026-07-15 05:32:11,US,151.101.3.1,mx2.paypalcorp.com.;mx1.paypalcorp.com.,pdns100.ultradns.net.;ns2.p57.dynect.net.;ns1.p57.dynect.net.;pdns100.ultradns.com.,
+faceb00k.com,Media Elite Holdings Limited,2005-09-13 08:58:43,2026-09-13 08:58:43,PA,69.162.80.51,,ns1.hastydns.com.;ns2.hastydns.com.,
