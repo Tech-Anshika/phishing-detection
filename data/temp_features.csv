@@ -1,0 +1,2 @@
+domain,label,domain_age_days,trusted_registrar,has_mx,has_ns,whois_complete,has_ssl,ssl_valid_days,is_ssl_short
+example.com,0,-1,0,0,0,0,0,0,0

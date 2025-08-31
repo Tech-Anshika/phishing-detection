@@ -1,0 +1,801 @@
+domain,label,domain_age_days,trusted_registrar,has_mx,has_ns,whois_complete,has_ssl,ssl_issuer,ssl_valid_days,is_ssl_short,error
+google.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+microsoft.com,0,-1,0,0,0,0,1,Microsoft Corporation,180,0,
+facebook.com,0,-1,0,0,0,0,1,DigiCert Inc,90,0,
+amazonaws.com,0,-1,0,0,0,0,0,,-1,0,[WinError 10061] No connection could be made because the target machine actively refused it
+mail.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+googleapis.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+youtube.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+apple.com,0,-1,0,0,0,0,1,Apple Inc.,85,1,
+cloudflare.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+dzen.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+ax-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+instagram.com,0,-1,0,0,0,0,1,DigiCert Inc,90,0,
+akamai.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+gstatic.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+twitter.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+akamaiedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+office.com,0,-1,0,0,0,0,1,Microsoft Corporation,180,0,
+live.com,0,-1,0,0,0,0,1,DigiCert Inc,365,0,
+linkedin.com,0,-1,0,0,0,0,1,DigiCert Inc,183,0,
+azure.com,0,-1,0,0,0,0,1,Microsoft Corporation,180,0,
+t-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+googlevideo.com,0,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'googlevideo.com'. (_ssl.c:1007)"
+fbcdn.net,0,-1,0,0,0,0,1,DigiCert Inc,90,0,
+dual-s-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+googletagmanager.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+amazon.com,0,-1,0,0,0,0,1,DigiCert Inc,358,0,
+microsoftonline.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+akadns.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+windowsupdate.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+wikipedia.org,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+ln-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+doubleclick.net,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+office.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+googleusercontent.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+workers.dev,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+github.com,0,-1,0,0,0,0,1,Sectigo Limited,365,0,
+bing.com,0,-1,0,0,0,0,1,Microsoft Corporation,180,0,
+whatsapp.net,0,-1,0,0,0,0,1,DigiCert Inc,90,0,
+fastly.net,0,-1,0,0,0,0,1,Certainly,29,1,
+trafficmanager.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+appsflyersdk.com,0,-1,0,0,0,0,1,Amazon,394,0,
+sharepoint.com,0,-1,0,0,0,0,1,Microsoft Corporation,360,0,
+netflix.com,0,-1,0,0,0,0,1,DigiCert Inc,90,0,
+e2ro.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+wordpress.org,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+aaplimg.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+a-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+youtu.be,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+icloud.com,0,-1,0,0,0,0,0,,-1,0,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1007)
+pinterest.com,0,-1,0,0,0,0,1,DigiCert Inc,391,0,
+windows.net,0,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'windows.net'. (_ssl.c:1007)"
+digicert.com,0,-1,0,0,0,0,1,DigiCert Inc,379,0,
+apple-dns.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+googlesyndication.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+gtld-servers.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+yahoo.com,0,-1,0,0,0,0,1,DigiCert Inc,176,0,
+tiktokcdn.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+skype.com,0,-1,0,0,0,0,1,Microsoft Corporation,180,0,
+domaincontrol.com,0,-1,0,0,0,0,0,,-1,0,[WinError 10061] No connection could be made because the target machine actively refused it
+msn.com,0,-1,0,0,0,0,1,Microsoft Corporation,180,0,
+whatsapp.com,0,-1,0,0,0,0,1,DigiCert Inc,90,0,
+ntp.org,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+goo.gl,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+cloudfront.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+roblox.com,0,-1,0,0,0,0,1,Sectigo Limited,365,0,
+adobe.com,0,-1,0,0,0,0,1,DigiCert Inc,365,0,
+spotify.com,0,-1,0,0,0,0,1,DigiCert Inc,365,0,
+vimeo.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+gvt2.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+x.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+tiktok.com,0,-1,0,0,0,0,1,DigiCert Inc,364,0,
+tiktokv.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+office365.com,0,-1,0,0,0,0,1,Microsoft Corporation,180,0,
+gvt1.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+bit.ly,0,-1,0,0,0,0,1,DigiCert Inc,364,0,
+cloudflare.net,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+ytimg.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+edgekey.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+zoom.us,0,-1,0,0,0,0,1,DigiCert Inc,368,0,
+aiv-cdn.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+wac-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+qq.com,0,-1,0,0,0,0,0,,-1,0,[WinError 10054] An existing connection was forcibly closed by the remote host
+gandi.net,0,-1,0,0,0,0,1,Gandi SAS,396,0,
+wordpress.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+msedge.net,0,-1,0,0,0,0,0,,-1,0,timed out
+akam.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+samsung.com,0,-1,0,0,0,0,1,Sectigo Limited,396,0,
+google-analytics.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+a2z.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+intuit.com,0,-1,0,0,0,0,1,DigiCert Inc,298,0,
+mozilla.org,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+cloudflare-dns.com,0,-1,0,0,0,0,1,DigiCert Inc,384,0,
+googleadservices.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+windows.com,0,-1,0,0,0,0,1,Microsoft Corporation,180,0,
+opera.com,0,-1,0,0,0,0,1,DigiCert Inc,393,0,
+nginx.org,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+baidu.com,0,-1,0,0,0,0,0,,-1,0,[WinError 10054] An existing connection was forcibly closed by the remote host
+cdninstagram.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+wa.me,0,-1,0,0,0,0,1,DigiCert Inc,90,0,
+ui.com,0,-1,0,0,0,0,1,Amazon,394,0,
+reddit.com,0,-1,0,0,0,0,1,DigiCert Inc,179,0,
+googledomains.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+yandex.net,0,-1,0,0,0,0,1,GlobalSign nv-sa,181,0,
+edgesuite.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+telekom.de,0,-1,0,0,0,0,0,,-1,0,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1007)
+cdn77.org,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+unity3d.com,0,-1,0,0,0,0,1,DigiCert Inc,364,0,
+sentry.io,0,-1,0,0,0,0,1,DigiCert Inc,396,0,
+blogspot.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+nist.gov,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+snapchat.com,0,-1,0,0,0,0,1,DigiCert Inc,364,0,
+nginx.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+t.me,0,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+vk.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,389,0,
+amazon-adsystem.com,0,-1,0,0,0,0,1,Amazon,394,0,
+nic.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+europa.eu,0,-1,0,0,0,0,1,GlobalSign nv-sa,372,0,
+pv-cdn.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+msftncsi.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+dns.google,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+adnxs.com,0,-1,0,0,0,0,1,DigiCert Inc,395,0,
+outlook.com,0,-1,0,0,0,0,1,DigiCert Inc,364,0,
+apache.org,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+github.io,0,-1,0,0,0,0,1,Sectigo Limited,365,0,
+one.one,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+l-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+dropbox.com,0,-1,0,0,0,0,1,DigiCert Inc,391,0,
+amazonvideo.com,0,-1,0,0,0,0,1,Amazon,394,0,
+app-analytics-services.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+gravatar.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+criteo.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+app-measurement.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+rbxcdn.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+bytefcdn-oversea.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+amazon.dev,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+tumblr.com,0,-1,0,0,0,0,1,Sectigo Limited,394,0,
+meraki.com,0,-1,0,0,0,0,1,Amazon,394,0,
+myfritz.net,0,-1,0,0,0,0,1,DigiCert Inc,396,0,
+lencr.org,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+epicgames.com,0,-1,0,0,0,0,1,Amazon,394,0,
+spo-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+applovin.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+3gppnetwork.org,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+pki.goog,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+archive.org,0,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+tiktokcdn-us.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+spov-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+steamserver.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+ggpht.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+xiaomi.com,0,-1,0,0,0,0,1,"DigiCert, Inc.",364,0,
+miit.gov.cn,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+userapi.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+nih.gov,0,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+paypal.com,0,-1,0,0,0,0,1,DigiCert Inc,364,0,
+nflxso.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+vedcdnlb.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+macromedia.com,0,-1,0,0,0,0,0,,-1,0,timed out
+nytimes.com,0,-1,0,0,0,0,1,DigiCert Inc,387,0,
+forms.gle,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+casalemedia.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+okcdn.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+rubiconproject.com,0,-1,0,0,0,0,1,DigiCert Inc,395,0,
+yandex.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,181,0,
+flickr.com,0,-1,0,0,0,0,1,Amazon,394,0,
+aliyuncs.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,257,0,
+b-cdn.net,0,-1,0,0,0,0,1,Sectigo Limited,371,0,
+adobe.io,0,-1,0,0,0,0,1,DigiCert Inc,396,0,
+discord.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+shopify.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+slack.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+msftconnecttest.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+adriver.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+cnn.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+discord.gg,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+soundcloud.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+medium.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+webex.com,0,-1,0,0,0,0,1,IdenTrust,369,0,
+f5.com,0,-1,0,0,0,0,1,"Entrust, Inc.",395,0,
+demdex.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+cdn-apple.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+azurewebsites.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+taboola.com,0,-1,0,0,0,0,1,DigiCert Inc,395,0,
+azurefd.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+example.com,0,-1,0,0,0,0,1,DigiCert Inc,365,0,
+android.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+w3.org,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+doubleverify.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+roku.com,0,-1,0,0,0,0,1,DigiCert Inc,393,0,
+t.co,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+chatgpt.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+shifen.com,0,-1,0,0,0,0,0,,-1,0,timed out
+theguardian.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+kaspersky.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+ttvnw.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+comcast.net,0,-1,0,0,0,0,0,,-1,0,[WinError 10061] No connection could be made because the target machine actively refused it
+miui.com,0,-1,0,0,0,0,1,"DigiCert, Inc.",364,0,
+forbes.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+trbcdn.net,0,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'trbcdn.net'. (_ssl.c:1007)"
+gmail.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+vungle.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+pubmatic.com,0,-1,0,0,0,0,1,Amazon,395,0,
+omtrdc.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+salesforce.com,0,-1,0,0,0,0,1,DigiCert Inc,363,0,
+capcutapi.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+registrar-servers.com,0,-1,0,0,0,0,0,,-1,0,[WinError 10061] No connection could be made because the target machine actively refused it
+wildberries.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+godaddy.com,0,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+ozon.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+cedexis.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+creativecommons.org,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+twitch.tv,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+akamaized.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+bbc.co.uk,0,-1,0,0,0,0,1,GlobalSign nv-sa,395,0,
+weather.com,0,-1,0,0,0,0,1,DigiCert Inc,365,0,
+bbc.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,395,0,
+jomodns.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+scorecardresearch.com,0,-1,0,0,0,0,1,Sectigo Limited,365,0,
+ksyuncdn.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+ebay.com,0,-1,0,0,0,0,1,Sectigo Limited,365,0,
+sourceforge.net,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+wsdvs.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+adsrvr.org,0,-1,0,0,0,0,1,GlobalSign nv-sa,378,0,
+mit.edu,0,-1,0,0,0,0,1,DigiCert Inc,280,0,
+ubuntu.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+steampowered.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+oracle.com,0,-1,0,0,0,0,1,DigiCert Inc,224,0,
+akamaihd.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+sciencedirect.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+cisco.com,0,-1,0,0,0,0,1,IdenTrust,394,0,
+imdb.com,0,-1,0,0,0,0,1,Amazon,352,0,
+cpanel.net,0,-1,0,0,0,0,1,Sectigo Limited,396,0,
+forter.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+canva.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+researchgate.net,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+googleblog.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+linktr.ee,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+cloud.microsoft,0,-1,0,0,0,0,1,Microsoft Corporation,180,0,
+xcal.tv,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+doi.org,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+openai.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+youtube-nocookie.com,0,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'youtube-nocookie.com'. (_ssl.c:1007)"
+wixsite.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+hubspot.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+dnsowl.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+ttdns2.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+wikimedia.org,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+appsflyer.com,0,-1,0,0,0,0,1,Amazon,393,0,
+mangosip.ru,0,-1,0,0,0,0,0,,-1,0,timed out
+openx.net,0,-1,0,0,0,0,1,DigiCert Inc,372,0,
+imgsmail.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+deepintent.com,0,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+2mdn.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+adtrafficquality.google,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+hp.com,0,-1,0,0,0,0,1,DigiCert Inc,364,0,
+nr-data.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+amazon.co.uk,0,-1,0,0,0,0,1,DigiCert Inc,358,0,
+who.int,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+tinyurl.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+samsungcloud.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+my.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+mikrotik.com,0,-1,0,0,0,0,1,DigiCert Inc,396,0,
+facebook.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+ampproject.org,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+byteoversea.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+rocket-cdn.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+cdngslb.com,0,-1,0,0,0,0,0,,-1,0,timed out
+static.microsoft,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+mtgglobals.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+grammarly.com,0,-1,0,0,0,0,1,Amazon,394,0,
+goskope.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+stripe.com,0,-1,0,0,0,0,1,DigiCert Inc,120,0,
+launchdarkly.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+wbx2.com,0,-1,0,0,0,0,0,,-1,0,timed out
+media-amazon.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+avast.com,0,-1,0,0,0,0,1,DigiCert Inc,378,0,
+edgecdn.ru,0,-1,0,0,0,0,0,,-1,0,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)
+playstation.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+ipv4only.arpa,0,-1,0,0,0,0,0,,-1,0,timed out
+netangels.ru,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+clarity.ms,0,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'clarity.ms'. (_ssl.c:1007)"
+crashlytics.com,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+launchpad.net,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+kwai-pro.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+3lift.com,0,-1,0,0,0,0,1,Amazon,394,0,
+samsungqbe.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+safebrowsing.apple,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+issuu.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+weebly.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+samsungcloudsolution.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+harvard.edu,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+sharethrough.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+go.com,0,-1,0,0,0,0,1,Sectigo Limited,365,0,
+opendns.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+inmobi.com,0,-1,0,0,0,0,1,Sectigo Limited,365,0,
+fastly-edge.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+ea.com,0,-1,0,0,0,0,1,DigiCert Inc,121,0,
+mzstatic.com,0,-1,0,0,0,0,1,Apple Inc.,90,0,
+media.net,0,-1,0,0,0,0,1,DigiCert Inc,364,0,
+www.gov.uk,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+ibm.com,0,-1,0,0,0,0,1,DigiCert Inc,366,0,
+s-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+php.net,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+tradingview.com,0,-1,0,0,0,0,1,Amazon,395,0,
+bidswitch.net,0,-1,0,0,0,0,1,DigiCert Inc,87,1,
+reuters.com,0,-1,0,0,0,0,1,COMODO CA Limited,365,0,
+alibabadns.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+alibaba.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+jsdelivr.net,0,-1,0,0,0,0,0,,-1,0,timed out
+weibo.com,0,-1,0,0,0,0,0,,-1,0,[WinError 10054] An existing connection was forcibly closed by the remote host
+tiktokv.us,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+heytapdl.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+aol.com,0,-1,0,0,0,0,1,DigiCert Inc,176,0,
+debian.org,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+douyincdn.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+espn.com,0,-1,0,0,0,0,1,COMODO CA Limited,365,0,
+adsafeprotected.com,0,-1,0,0,0,0,1,Amazon,395,0,
+booking.com,0,-1,0,0,0,0,1,DigiCert Inc,316,0,
+allawnos.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+smartadserver.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+ys7.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+wiley.com,0,-1,0,0,0,0,1,DigiCert Inc,372,0,
+googletagservices.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+nature.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+shalltry.com,0,-1,0,0,0,0,1,Amazon,393,0,
+indexww.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+cdc.gov,0,-1,0,0,0,0,0,,-1,0,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1007)
+wsj.com,0,-1,0,0,0,0,1,Amazon,394,0,
+pages.dev,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+washingtonpost.com,0,-1,0,0,0,0,0,,-1,0,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+fb-t-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+appcenter.ms,0,-1,0,0,0,0,1,"DigiCert, Inc.",183,0,
+netflix.net,0,-1,0,0,0,0,1,Google Trust Services,89,1,
+myshopify.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+azureedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+dnsmadeeasy.com,0,-1,0,0,0,0,1,DigiCert Inc,396,0,
+dailymail.co.uk,0,-1,0,0,0,0,1,DigiCert Inc,367,0,
+xhamster.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+dailymotion.com,0,-1,0,0,0,0,1,ZeroSSL,90,0,
+online-metrix.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+aliyun.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+reg.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+etsy.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+checkpoint.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+quickconnect.to,0,-1,0,0,0,0,1,Sectigo Limited,395,0,
+moe.video,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+springer.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+naver.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+huawei.com,0,-1,0,0,0,0,0,,-1,0,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1007)
+ripn.net,0,-1,0,0,0,0,0,,-1,0,timed out
+bloomberg.com,0,-1,0,0,0,0,1,DigiCert Inc,393,0,
+lijit.com,0,-1,0,0,0,0,1,Amazon,393,0,
+b-msedge.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+duckdns.org,0,-1,0,0,0,0,1,Amazon,394,0,
+telegraph.co.uk,0,-1,0,0,0,0,1,Amazon,393,0,
+tiktokcdn-eu.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+liadm.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+id5-sync.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+autodesk.com,0,-1,0,0,0,0,1,Amazon,394,0,
+gnu.org,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+elasticbeanstalk.com,0,-1,0,0,0,0,0,,-1,0,timed out
+un.org,0,-1,0,0,0,0,1,COMODO CA Limited,365,0,
+heytapmobile.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+wp.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+vtwenty.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+globo.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+drom.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+adobe.net,0,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'adobe.net'. (_ssl.c:1007)"
+sc-cdn.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+salesforceliveagent.com,0,-1,0,0,0,0,1,DigiCert Inc,364,0,
+outbrain.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+inner-active.mobi,0,-1,0,0,0,0,0,,-1,0,[WinError 10054] An existing connection was forcibly closed by the remote host
+stanford.edu,0,-1,0,0,0,0,1,Internet2,365,0,
+xboxlive.com,0,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xboxlive.com'. (_ssl.c:1007)"
+gcdn.co,0,-1,0,0,0,0,0,,-1,0,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)
+ivi.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+tripadvisor.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+comcast.com,0,-1,0,0,0,0,0,,-1,0,[WinError 10061] No connection could be made because the target machine actively refused it
+indeed.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+businessinsider.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+nasa.gov,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+tp-link.com,0,-1,0,0,0,0,1,Amazon,393,0,
+mcafee.com,0,-1,0,0,0,0,1,"McAfee, Inc.",365,0,
+yahoo.co.jp,0,-1,0,0,0,0,1,"Cybertrust Japan Co., Ltd.",394,0,
+telegram.org,0,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+zendesk.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+google.com.br,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+bilibili.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+temu.com,0,-1,0,0,0,0,1,"GoDaddy.com, Inc.",396,0,
+force.com,0,-1,0,0,0,0,1,DigiCert Inc,363,0,
+dell.com,0,-1,0,0,0,0,1,DigiCert Inc,396,0,
+paloaltonetworks.com,0,-1,0,0,0,0,1,"GoDaddy.com, Inc.",375,0,
+mega.co.nz,0,-1,0,0,0,0,1,Sectigo Limited,395,0,
+yximgs.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+vecdnlb.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+notamedia.ru,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+amazonalexa.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+independent.co.uk,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+list-manage.com,0,-1,0,0,0,0,0,,-1,0,timed out
+vivoglobal.com,0,-1,0,0,0,0,1,"DigiCert, Inc.",396,0,
+fandom.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+tiktokrow-cdn.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+unsplash.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+mts.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+nvidia.com,0,-1,0,0,0,0,1,Amazon,394,0,
+ibyteimg.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+foxnews.com,0,-1,0,0,0,0,1,DigiCert Inc,365,0,
+duckduckgo.com,0,-1,0,0,0,0,1,DigiCert Inc,115,0,
+rackspace.net,0,-1,0,0,0,0,0,,-1,0,timed out
+gosuslugi.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+bidmachine.io,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+cornell.edu,0,-1,0,0,0,0,1,Internet2,365,0,
+quora.com,0,-1,0,0,0,0,1,Google Trust Services,89,1,
+wyzecam.com,0,-1,0,0,0,0,1,DigiCert Inc,365,0,
+nease.net,0,-1,0,0,0,0,0,,-1,0,timed out
+kaspersky-labs.com,0,-1,0,0,0,0,0,,-1,0,[WinError 10061] No connection could be made because the target machine actively refused it
+cnbc.com,0,-1,0,0,0,0,1,DigiCert Inc,364,0,
+ok.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,74,1,
+mi.com,0,-1,0,0,0,0,1,DigiCert Inc,389,0,
+pixabay.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+ip-api.com,0,-1,0,0,0,0,1,Sectigo Limited,396,0,
+sfx.ms,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+dropcatch.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+pangle.io,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+steamcommunity.com,0,-1,0,0,0,0,1,DigiCert Inc,365,0,
+nstld.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+mynetname.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+qlivecdn.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+sophos.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+yandex.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,181,0,
+walmart.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+amazon.de,0,-1,0,0,0,0,1,DigiCert Inc,358,0,
+mediatek.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+dynatrace.com,0,-1,0,0,0,0,1,Amazon,395,0,
+rambler.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+telegram.me,0,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+npr.org,0,-1,0,0,0,0,1,Amazon,394,0,
+avcdn.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+entrust.net,0,-1,0,0,0,0,1,SSL Corporation,395,0,
+sc-gw.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+atlassian.com,0,-1,0,0,0,0,1,Amazon,394,0,
+tiktokv.eu,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+firetvcaptiveportal.com,0,-1,0,0,0,0,0,,-1,0,timed out
+goodreads.com,0,-1,0,0,0,0,1,Amazon,361,0,
+plesk.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+duolingo.com,0,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+g.page,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+adform.net,0,-1,0,0,0,0,1,DigiCert Inc,391,0,
+okta.com,0,-1,0,0,0,0,1,DigiCert Inc,370,0,
+cookiedatabase.org,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+teamviewer.com,0,-1,0,0,0,0,1,Sectigo Limited,396,0,
+1c.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+statista.com,0,-1,0,0,0,0,1,Amazon,394,0,
+sohu.com,0,-1,0,0,0,0,1,"DigiCert, Inc.",392,0,
+kwai.net,0,-1,0,0,0,0,0,,-1,0,timed out
+mozilla.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+calendly.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+behance.net,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+awswaf.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+taobao.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+consultant.ru,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+giphy.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+eset.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+nflximg.com,0,-1,0,0,0,0,0,,-1,0,timed out
+hichina.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+rackspace.com,0,-1,0,0,0,0,1,Amazon,393,0,
+addtoany.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+wired.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+live-video.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+t-online.de,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+speedtest.net,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+google.co.uk,0,-1,0,0,0,0,1,Google Trust Services,83,1,
+eventbrite.com,0,-1,0,0,0,0,1,Amazon,394,0,
+line.me,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+erome.com,0,-1,0,0,0,0,0,,-1,0,[WinError 10054] An existing connection was forcibly closed by the remote host
+beian.gov.cn,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+svc.ms,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+uber.com,0,-1,0,0,0,0,1,DigiCert Inc,357,0,
+trendmicro.com,0,-1,0,0,0,0,1,Sectigo Limited,365,0,
+slideshare.net,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+dotomi.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+sberbank.ru,0,-1,0,0,0,0,0,,-1,0,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+netease.com,0,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'netease.com'. (_ssl.c:1007)"
+360yield.com,0,-1,0,0,0,0,1,Amazon,394,0,
+time.com,0,-1,0,0,0,0,1,Certainly,29,1,
+verisign.com,0,-1,0,0,0,0,1,DigiCert Inc,364,0,
+aliexpress.com,0,-1,0,0,0,0,1,GlobalSign nv-sa,396,0,
+usatoday.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+vkuser.net,0,-1,0,0,0,0,0,,-1,0,timed out
+sentinelone.net,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+telekom.net,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+nflxvideo.net,0,-1,0,0,0,0,0,,-1,0,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)
+rlcdn.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+amzn.to,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+msidentity.com,0,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+indiatimes.com,0,-1,0,0,0,0,1,DigiCert Inc,210,0,
+shein.com,0,-1,0,0,0,0,1,"DigiCert, Inc.",396,0,
+scribd.com,0,-1,0,0,0,0,1,Let's Encrypt,89,1,
+conviva.com,0,-1,0,0,0,0,1,Google Trust Services,90,0,
+amplitude.com,0,-1,0,0,0,0,1,Amazon,394,0,
+mysql.com,0,-1,0,0,0,0,1,DigiCert Inc,224,0,
+jnails99.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+access-coinbase.typedream.app,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+azure-sso-eng-ca-netcoins-com-cdn.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+apps--blockfi--cdn.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+auth-midrivers.netlify.app,1,-1,0,0,0,0,1,DigiCert Inc,396,0,
+cliserora.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+easybank-two.vercel.app,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+beverlyhillslipodepot.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+gz-plsl.web.app,1,-1,0,0,0,0,1,Google Trust Services,89,1,
+meetamsaklfoinee.godaddysites.com,1,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+mettamassqkk-luggyz.godaddysites.com,1,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+validateonmainnet.firebaseapp.com,1,-1,0,0,0,0,1,Google Trust Services,89,1,
+web3-connect-wallet.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+ndax-canada-logen.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+kucoin-logggn.godaddysites.com,1,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+sage-rolypoly-ce490e.netlify.app,1,-1,0,0,0,0,1,DigiCert Inc,396,0,
+preeminent-pixie-563a99.netlify.app,1,-1,0,0,0,0,1,DigiCert Inc,396,0,
+yasirclone.netlify.app,1,-1,0,0,0,0,1,DigiCert Inc,396,0,
+nafih2007.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+vxc.twenxty.my,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+kuccooienlegiu.godaddysites.com,1,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+rebrand.ly,1,-1,0,0,0,0,1,Amazon,394,0,
+hackerlogesh.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+gamenieblg.godaddysites.com,1,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+loquacious-alfajores-6245c3.netlify.app,1,-1,0,0,0,0,1,DigiCert Inc,396,0,
+hud.bzx.mybluehost.me,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+francisco-araujo25.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+hskgkyigj.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+lanchenba1111.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+lanchenba1111.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+app.iosgods.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+facebo0k.hi2.ro,1,-1,0,0,0,0,0,,-1,0,timed out
+google-login-youtube.netlify.app,1,-1,0,0,0,0,1,DigiCert Inc,396,0,
+danaa-indonesiia4x.xea.my.id,1,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+biglobejp.eth.limo,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+bba-nine.vercel.app,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+bba-fr8v.vercel.app,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+carrefour-enbacktoschool15.pages.dev,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+amazon1clone.netlify.app,1,-1,0,0,0,0,1,DigiCert Inc,396,0,
+bright-zuccutto-ca3d41.netlify.app,1,-1,0,0,0,0,1,DigiCert Inc,396,0,
+amazon2024-frontend-deploy.netlify.app,1,-1,0,0,0,0,1,DigiCert Inc,396,0,
+apples-service-care21p1.vercel.app,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.sap1619hfz.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.sap1795jgc.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+32louie-ellison48.crabdance.com,1,-1,0,0,0,0,1,ZeroSSL,90,0,
+pack-king.nl,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+bxuqbcj.cn,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+id.handel.mobile.de-login-service.primemassagemaltonivel.com.br,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.public-xi-lemon.vercel.app,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.public-xi-lemon.vercel.app'. (_ssl.c:1007)"
+public-xi-lemon.vercel.app,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+060kp.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.trustconnect.vercel.app,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.trustconnect.vercel.app'. (_ssl.c:1007)"
+spotify.chatdescobrindosegredos.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+xsfrehy.cn,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+uoiqk.faceac2.shop,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+tap3153de0.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.tap3153de0.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+airrbnb.xyz,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+tap3475oza.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+support.page-help-center.cfd,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+abhimanyu088.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+e617d40b.led00-sdkfje43-9skajxczhvz.pages.dev,1,-1,0,0,0,0,1,"CLOUDFLARE, INC.",90,0,
+nikhilghanghoriya.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+rncff.cn,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+web14185.cweb06.gamingcontrol.de,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.yn56w0y.duckdns.org,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.yn56w0y.duckdns.org'. (_ssl.c:1007)"
+www.netfilix-kappa.vercel.app,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.netfilix-kappa.vercel.app'. (_ssl.c:1007)"
+www.netflix-omega-virid.vercel.app,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.netflix-omega-virid.vercel.app'. (_ssl.c:1007)"
+www.3ff25z.duckdns.org,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.3ff25z.duckdns.org'. (_ssl.c:1007)"
+www.netflix-clone-two-flame.vercel.app,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.netflix-clone-two-flame.vercel.app'. (_ssl.c:1007)"
+www.hotinvoiceca.vercel.app,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hotinvoiceca.vercel.app'. (_ssl.c:1007)"
+www.facebook-login-page-five-delta.vercel.app,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.facebook-login-page-five-delta.vercel.app'. (_ssl.c:1007)"
+www.amazon-clone-alpha-gilt-89.vercel.app,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.amazon-clone-alpha-gilt-89.vercel.app'. (_ssl.c:1007)"
+www.confirmar-live-ou1look01.weebly.com,1,-1,0,0,0,0,0,,-1,0,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1007)
+sap1690dav.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.attserverqa1.weebly.com,1,-1,0,0,0,0,0,,-1,0,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1007)
+www.amazon-clone-bay-one.vercel.app,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.amazon-clone-bay-one.vercel.app'. (_ssl.c:1007)"
+jkbjuno.weebly.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+ejizqgmc.cn,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+tap36914gl.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+sap1485oym.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.sap1607dk6.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.xjko.top,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.xjko.top'. (_ssl.c:1007)"
+tap3430vut.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+sap1487zko.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+sap1671yzc.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+tap3182jpm.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+supportcenter-verifypage.netlify.app,1,-1,0,0,0,0,1,DigiCert Inc,396,0,
+csst.at,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+steamcommunity.rip,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+csst.at,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+www.sap1704g07.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+wf.managepci.com,1,-1,0,0,0,0,1,"Viking Cloud, Inc.",364,0,
+iman227.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+cjpqb.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+sap1523rwy.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+itrustcapitulogin.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+pub-0c83953400094ceaa025496458468cc6.r2.dev,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+au.natostrap.com,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'au.natostrap.com'. (_ssl.c:1007)"
+au.natostrap.com,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'au.natostrap.com'. (_ssl.c:1007)"
+sap1719992.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+pub-693dd56f7d854405a7336f581b7ec8f9.r2.dev,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+pub-537a8ed85ee84a5f9f6e0763fea63493.r2.dev,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+206-123-145-125.cprapid.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+tap38457y5.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.lnstagramsupport.cm,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+7wk8.sap16378wv.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.sap16378wv.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+3guq.sap16378wv.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+approximately-four-dryer-wines.trycloudflare.com,1,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+075kp.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+127dlq.vip,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+ekchub.cn,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+genmnilohgin.godaddysites.com,1,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+omrajbhalke.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+nikku-padmakshi.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+pub-d6d282c9769a4129ab2d3b7f890c044b.r2.dev,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+chdsmail.upcsites.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.chdsmail.upcsites.com,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.chdsmail.upcsites.com'. (_ssl.c:1007)"
+santander-netbanco.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+mmcry.cn,1,-1,0,0,0,0,1,"CLOUDFLARE, INC.",89,1,
+www.tap3060t4r.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.sap1747uwd.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.qualityscorecontabilidade.shop,1,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+sap1627kna.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+ujqybzu.cn,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+login-ndax-login.typedream.app,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+dana-pemulihann-id.my.id,1,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+businessverificationhelpcenter.com,1,-1,0,0,0,0,1,Google Trust Services,89,1,
+gceelgs.cn,1,-1,0,0,0,0,1,Google Trust Services,89,1,
+xoxwvewm.cn,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+xn--b8qr5ak2rzryzfan23q.vip,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.vip.sspl.com.au,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.vip.sspl.com.au'. (_ssl.c:1007)"
+bellcommunicationsalert.weebly.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+tap157083k.vip,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+mandirienergikonsultan.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+nisha-kumari34.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+www.gefforu2025.blogspot.com.ee,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gefforu2025.blogspot.com.ee'. (_ssl.c:1007)"
+www.lotzstyles.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+xggt927.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+k5vm.tap30964q0.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+r0tp.tap3193b5k.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+wyev.tap3236y7s.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+rtkmb.cn,1,-1,0,0,0,0,1,"CLOUDFLARE, INC.",89,1,
+www.kkinstagram.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+oliver752.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+help-trezorwoull.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+trumjurwallit.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+zgdingxing.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.sap1158f8l.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.sap1359pa3.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+m.secure-id.net,1,-1,0,0,0,0,1,ZeroSSL,90,0,
+sap10565x8.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.roblox.com.by,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+cezamaliyetr.org,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+le-moment.shop,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+www.gefforu2025.blogspot.com.uy,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gefforu2025.blogspot.com.uy'. (_ssl.c:1007)"
+r0tp.tap32203w6.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.sap0922nn6.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+sap2277yxk.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+sso--eng-netcoins---com-cdn----nav.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+kucoinlugiinus.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+qa-reporting.jimpike.com.au,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'qa-reporting.jimpike.com.au'. (_ssl.c:1007)"
+ledgerdevsupport.firebaseapp.com,1,-1,0,0,0,0,1,Google Trust Services,89,1,
+secure--sso--itrustcapital-com-cdn-m-au.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+www.sap0906409.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.tap32203w6.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.tap32375se.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+kucoeinnllogin.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+kcoiinlogon.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+pandasuransi.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+www.kkinstagram.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+csst.at,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+phavetum.top,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+dbdqw3.duckdns.org,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dbdqw3.duckdns.org'. (_ssl.c:1007)"
+vxfxyfcc.com,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vxfxyfcc.com'. (_ssl.c:1007)"
+jbaeszfj.com,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'jbaeszfj.com'. (_ssl.c:1007)"
+s.team-zi.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+phjdjc.com,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'phjdjc.com'. (_ssl.c:1007)"
+ad-account-governance-hub-4eb.pages.dev,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+my--app-itrustcapital-com-cdn.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+facebook-login-theta-one.vercel.app,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+ns.ouvidoria.duckdns.org,1,-1,0,0,0,0,0,,-1,0,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1007)
+www.gefforu2025.blogspot.co.za,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gefforu2025.blogspot.co.za'. (_ssl.c:1007)"
+matesworldstore.com,1,-1,0,0,0,0,1,ZeroSSL,90,0,
+tgyzr.cn,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+99999.916676882.workers.dev,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+coiinbasewellitexxtinsionn.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+meta.managamnter.club,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+auths-sso-w--trustcapital---com-autths.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+www.barclays-trades.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.tap235681r.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+thatssewcindy1.wixsite.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+repostagemvisual.online,1,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+entry.hyperstaffclub.xyz,1,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+dwp-younu.top,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+vviponlineswhose.cc,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+9392627-coinbase.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+eng-bridge-tech-trezor.pages.dev,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+sap13242re.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.tap2728n88.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+tap2736fdr.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+tap2706ood.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+tap2728n88.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+gold-surprise-589941.framer.app,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+sap0912cll.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.tap2924u2s.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.tap2833d58.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.sap1020l6w.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.3011m3011.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+ly.cnuqkv6.sa.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+ly.cnuqkv6.sa.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+ly.cnuqkv6.sa.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+ly.cnuqkv6.sa.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+tap20985nx.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.tap32327x8.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.sap10154lb.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+uouv.tap3295h74.cc,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+blockfilogi-account.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+metamikinlogin.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+www.facebook-alerts.blogspot.com.ng,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.facebook-alerts.blogspot.com.ng'. (_ssl.c:1007)"
+secure-en-coinbase-faq.typedream.app,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+www.www1.attollo.com.au,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.www1.attollo.com.au'. (_ssl.c:1007)"
+www.aliexpwhosle.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+clone-netfllix-sejal.netlify.app,1,-1,0,0,0,0,1,DigiCert Inc,396,0,
+www.scfnl.org,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.tap1348xe6.vip,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+ahmrw406-ux.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+atelier-sentez.net,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+avinashsingh125.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+gefforu2025.blogspot.com.uy,1,-1,0,0,0,0,1,Google Trust Services,83,1,
+eitkruo.cn,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+io-upheldlogin.typedream.app,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+ggtkss.net,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.tap1332gqv.vip,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+jisna1995.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+midriverlogsaututh.pages.dev,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+my-sso--itrustcapital--com-cdn---n-auth.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+clpi.alpikor.de,1,-1,0,0,0,0,1,ZeroSSL,90,0,
+metmsk-loginus.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+gefforu2025.blogspot.co.za,1,-1,0,0,0,0,1,Google Trust Services,83,1,
+secure-uphold-login.typedream.app,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+siddharthmauryamern.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+steamcomunnity.cc,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+facebook-alerts.blogspot.ug,1,-1,0,0,0,0,1,Google Trust Services,83,1,
+dwp-youbd.top,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+help-trezrr-io-start.typedream.app,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+manu027k.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+meu-ttaa-maskk-logiin.godaddysites.com,1,-1,0,0,0,0,1,"GoDaddy.com, Inc.",397,0,
+50k-foryou.blogspot.com,1,-1,0,0,0,0,1,Google Trust Services,83,1,
+www.facebook-alerts.blogspot.rs,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.facebook-alerts.blogspot.rs'. (_ssl.c:1007)"
+uhpvi.xyz,1,-1,0,0,0,0,0,,-1,0,[Errno 11001] getaddrinfo failed
+www.flow.page,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+pub-699e84f217f5423c837b00ebdb05ca69.r2.dev,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.50k-foryou.blogspot.com,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.50k-foryou.blogspot.com'. (_ssl.c:1007)"
+paigebuchholz1.ac-page.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+pub-11e6504d5d9a40ff97bcd3d5ee476ec8.r2.dev,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+pub-d32177d1380e42248761c1e0015bfbc0.r2.dev,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+sites.google.com,1,-1,0,0,0,0,1,Google Trust Services,83,1,
+pub-5f9157fad7fd426bad68e1875cc4842e.r2.dev,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+pub-01c3d3d13dcc4aaa9e7f2f736299e065.r2.dev,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+pub-36f075228b5e4c7e8dc7b16a89adccce.r2.dev,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+misaki4552.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+csst.at,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+steamcommunity.rip,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+promotion-service-operations-center.pages.dev,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+www.facebook-alerts.blogspot.pt,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.facebook-alerts.blogspot.pt'. (_ssl.c:1007)"
+www.getcheckmark.vercel.app,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.getcheckmark.vercel.app'. (_ssl.c:1007)"
+pub-6cb9034afc1e42e08310e08af6ac6320.r2.dev,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+www.btrr1.shop,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+www.hapeblox.blogspot.bg,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hapeblox.blogspot.bg'. (_ssl.c:1007)"
+www.dtgvyhscbymkxqzxian.productsguaranteed.com,1,-1,0,0,0,0,0,,-1,0,[WinError 10061] No connection could be made because the target machine actively refused it
+portal--apps-ndax-io--cdn-hm.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+aa.stnred2.sa.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+aa.stnred2.sa.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+steemcommunty.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+csst.at,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+steamcommunity.rip,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+93255-gemini.com,1,-1,0,0,0,0,0,,-1,0,timed out
+my-secure-itrustcapitaal-com-cdn.webflow.io,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+sap0803s0j.vip,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+po.ponchodotcom.sa.com,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'po.ponchodotcom.sa.com'. (_ssl.c:1007)"
+po.ponchodotcom.sa.com,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'po.ponchodotcom.sa.com'. (_ssl.c:1007)"
+farooqkhitab.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+kumarohit0379.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+wallet--coin.net,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+revolenthealth.com,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+gefforu2025.blogspot.cl,1,-1,0,0,0,0,1,Google Trust Services,83,1,
+www.gefforu2025.blogspot.sn,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gefforu2025.blogspot.sn'. (_ssl.c:1007)"
+hissing-london-acoustic.on-fleek.app,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+robinhood-login-access-us-sso.typedream.app,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+hapeblox.blogspot.tw,1,-1,0,0,0,0,1,Google Trust Services,83,1,
+www.facebook-alerts.blogspot.com.uy,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.facebook-alerts.blogspot.com.uy'. (_ssl.c:1007)"
+www.at-to.vercel.app,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.at-to.vercel.app'. (_ssl.c:1007)"
+www.hapeblox.blogspot.com.eg,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hapeblox.blogspot.com.eg'. (_ssl.c:1007)"
+easy-banking-langing-page-ivtcsb46a.vercel.app,1,-1,0,0,0,0,1,Let's Encrypt,89,1,
+anamika-ai.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+muhammedajmal-pp.github.io,1,-1,0,0,0,0,1,Sectigo Limited,365,0,
+www.kkinstagram.com,1,-1,0,0,0,0,1,Google Trust Services,90,0,
+u0688998.plsk.regruhosting.ru,1,-1,0,0,0,0,0,,-1,0,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'u0688998.plsk.regruhosting.ru'. (_ssl.c:1007)"
