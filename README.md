@@ -62,8 +62,33 @@ CSEs face an increasing number of phishing attacks, where malicious actors creat
 
 ### Run Locally
 
-1. Clone the repository:
+#### 1. Clone the repository:
 
 ```bash
 git clone https://github.com/Tech-Anshika/phishing-detection.git
 cd phishing-detection
+```
+#### 2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+#### 3. Start the API:
+```bash
+uvicorn src.app:app --reload
+```
+#### 4. Access endpoints:
+-Single domain: http://127.0.0.1:8000/predict/?domain=example.com
+-Bulk CSV: POST CSV file to http://127.0.0.1:8000/bulk_predict/
+## 6. Project Structure
+```bash
+phishing-detection/
+│
+├─ data/                  # Input/output CSVs
+├─ models/                # Trained ML model
+├─ src/
+│   ├─ app.py             # FastAPI application
+│   ├─ feature_extraction.py  # Feature calculation logic
+│   └─ ssl_lookup.py      # SSL info extraction
+├─ requirements.txt       # Python dependencies
+└─ README.md
+```
